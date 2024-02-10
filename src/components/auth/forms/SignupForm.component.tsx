@@ -1,7 +1,7 @@
 import React from "react";
-
+import { Button } from "@/components/ui/button";
 function SignupForm() {
-  return <div>SignupForm</div>;
+  return <Button variant="outline">Like</Button>;
 }
 
 export default SignupForm;
